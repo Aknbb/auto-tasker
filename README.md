@@ -65,8 +65,8 @@ Here are some additional instructions for developers:
 
 ![Multi Media System Info](docs/multimedia-system-info.webp)
 
-####License
+#### License
 AutoTasker is licensed under the **MIT** License.
 
-####Contact
+#### Contact
 Feel free to explore my AutoTasker project and get in touch if you have any questions or collaboration ideas. You can reach out to me via [akinbuyukbulut@gmail.com](mailto:akinbuyukbulut@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akinbuyukbulut/) and [GitHub](https://github.com/Aknbb).
