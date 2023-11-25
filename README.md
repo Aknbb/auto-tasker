@@ -26,10 +26,10 @@ In this demo, I turn off and on the hotspot connection on my phone, and AutoTask
 
 To install AutoTasker application you should build on your local environment, follow these steps:
 
-1. Clone the AutoTasker repository from GitHub.
+1. Clone the auto-tasker repository from GitHub.
 
     ```
-    git clone https://github.com/Aknbb/AutoTasker.git
+    git clone https://github.com/Aknbb/auto-tasker.git
     ```
 2. Open the AutoTasker project in Android Studio.
 
